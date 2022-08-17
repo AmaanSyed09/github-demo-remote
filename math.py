@@ -1,19 +1,19 @@
-#add implementation
+#Add implementation
 def add(x,y):
     return x+y
-#sub Implementation
+#Sub Implementation
 def subtract(x,y):
     return x-y  #on master
-#mul implementation
+#Mul implementation
 def multiply(x,y):
     return x*y   # on bug456
-#div implementation
+#Div implementation
 def divide(x,y):
     if y==0:
     return divide_by_0_error
     else:
     return x/y
     
- #square implementation
+#Square implementation
 def square(x):
     return x*x
