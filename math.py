@@ -6,7 +6,7 @@ def subtract(x,y):
     return y-x  #on remote
 #Mul implementation
 def multiply(x,y):
-    return x*y   # on bug456
+    return y*x   # on local repo
 #Div implementation
 def divide(x,y):
     if y==0:
