@@ -3,7 +3,7 @@ def add(x,y):
    return x+y
 #Sub Implementation
 def subtract(x,y):
-    return x-y  #on master
+    return y-x  #on remote
 #Mul implementation
 def multiply(x,y):
     return x*y   # on bug456
